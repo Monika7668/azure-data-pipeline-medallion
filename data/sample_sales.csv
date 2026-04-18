@@ -1,0 +1,16 @@
+order_id,customer_id,region,revenue
+1,101,North,500
+2,102,South,700
+3,103,East,300
+4,104,West,900
+5,105,North,1200
+6,106,South,0
+7,107,East,450
+8,108,West,800
+9,109,North,650
+10,110,South,720
+11,111,East,380
+12,112,West,910
+13,113,North,1400
+14,114,South,500
+15,115,East,620
